@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/libs/ProMicro/ProMicroKiCad/promicro.pretty")(options "")(descr "")(disabled))
+  (lib (name "fs")(type "KiCad")(uri "${KIPRJMOD}/libs/fs.pretty")(options "")(descr ""))
+)
