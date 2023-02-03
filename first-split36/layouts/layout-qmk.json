@@ -159,7 +159,7 @@
       "KC_LSFT"
     ],
     [
-      "KC_ESC",
+      "KC_TAB",
       "KC_Q",
       "KC_W",
       "KC_E",
@@ -179,7 +179,7 @@
       "KC_J",
       "KC_K",
       "KC_L",
-      "KC_TAB",
+      "KC_LCTL",
       "KC_Z",
       "KC_X",
       "KC_C",
@@ -189,7 +189,7 @@
       "KC_M",
       "KC_O",
       "KC_SLSH",
-      "KC_LCTL",
+      "KC_ESC",
       "KC_SPC",
       "MO(5)",
       "KC_LALT",
